@@ -1,0 +1,28 @@
+{
+  "name": "socket-agario-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.0.0",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugurctaygun/socket-agario-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugurctaygun/socket-agario-clone/issues"
+  },
+  "homepage": "https://github.com/ugurctaygun/socket-agario-clone#readme"
+}
